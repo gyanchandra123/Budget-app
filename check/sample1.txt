@@ -1,0 +1,3 @@
+[{Data: {expenditure_details: [{id: 0, description: "rent", value: 2000, percentage: 8}],…}},…]
+0: {Data: {expenditure_details: [{id: 0, description: "rent", value: 2000, percentage: 8}],…}}
+1: {"Time ": "2020-10-20T13:31:45.330Z"}
